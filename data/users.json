@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Cole12we",
+    "surname": "sdnkfd",
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "username": "guest12",
+    "name": "Cole23",
+    "surname": "sdnkfd2111",
+    "password": "sdfsrseerew",
+    "role": "guest"
+  },
+  {
+    "username": "ksd",
+    "surname": "sdffsfd",
+    "name": "sdfsdf",
+    "password": "sdfsdfsfdsfsd",
+    "id": "1745699665225"
+  },
+  {
+    "username": "a",
+    "surname": "a",
+    "name": "a",
+    "password": "asas",
+    "id": "1745756798440"
+  },
+  {
+    "username": "ві",
+    "surname": "фів",
+    "name": "ліів",
+    "password": "fhfh",
+    "id": "1745757009952"
+  },
+  {
+    "username": "ві",
+    "surname": "фів",
+    "name": "ліів",
+    "password": "fhfh",
+    "id": "1745757009958"
+  }
+]
